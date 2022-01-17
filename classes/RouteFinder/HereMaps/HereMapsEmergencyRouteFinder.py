@@ -16,7 +16,7 @@ class HereMapsEmergencyRouteFinder(RouteFinder):
     def calculateRoute(self, origin, destination):
         return 1
 
-    def getEmergencyRoute(self, origin, destination):
+    def getEmergencyRoute(self, origin_lat, origin_lng, destination_lat, destination_lng):
         url = buildUrl(
             base_url=Routes.WAYPOINTS_BASE_URL,
             route=Routes.WAYPOINTS_CALCULATE_ROUTE,
@@ -24,14 +24,13 @@ class HereMapsEmergencyRouteFinder(RouteFinder):
             parameters=
             {
                 'apiKey' : self._api_key,
-                'waypoint0':'52.366440,4.893140',
-                'waypoint1':'52.365029,4.915660',
+                'waypoint0': f"{origin_lat},{origin_lng}",
+                'waypoint1': f"{destination_lat},{destination_lng}",
                 'mode' : self.getModeParameters(),
                 'departure':'2022-01-13T16:18:38',
                 'alternatives':'0'
             }
         )
-        print(url)
         response = requests.get(url)
         print(response.content)
 
