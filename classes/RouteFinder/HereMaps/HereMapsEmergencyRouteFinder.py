@@ -29,7 +29,11 @@ class HereMapsEmergencyRouteFinder(RouteFinder):
             }
         )
         response = requests.get(url)
-        print(response.content)
+        if response.status_code != 200:
+            print(response.text)
+            return 100000
+        json_response = response.json()
+        return json_response["response"]['route'][0]['summary']['travelTime']
 
     def _getModeParameters(self, enableTraffic = False):
         mode =  ['fastest','emergency']
@@ -38,5 +42,4 @@ class HereMapsEmergencyRouteFinder(RouteFinder):
         return mode
 
     def _getDepartureTime(self):
-        print(datetime.datetime.now())
         return '2022-01-13T16:18:38'
