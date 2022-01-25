@@ -4,12 +4,12 @@ import pandas as pd
 import numpy as np
 
 pd.set_option("display.max_columns", None)
-old_buurten = pd.read_csv('../data/oude_buurten.csv')
+# old_buurten = pd.read_csv('../data/oude_buurten.csv')
 # new_buurten = pd.read_csv('../data/nieuwe_buurten.csv')
 # buurten_information = pd.read_csv('../data/buurten_information.csv')
-
+wijken = pd.read_csv('../data/wijken.csv')
 def cleanIncidentData():
-    incident_data = pd.read_csv('../data/incident_data.csv')
+    incident_data = pd.read_csv('../data/brwaa_2010-2015.csv')
     # Clean the data:
     # Remove the rows that do not have a numeric value in the 'jaar' column
     incident_data['jaar'] = pd.to_numeric(incident_data['jaar'], errors="coerce")
@@ -26,17 +26,22 @@ df = fire_incidents.groupby(by=['buurt', 'prioriteit', 'dagdeel']).count()['uur'
 df['buurt'] = df['buurt'].str.strip()
 df['dagdeel'] = df['dagdeel'].str.strip()
 df['code'] = np.nan
+df['LAT'] = np.nan
+df['LNG'] = np.nan
 for buurt in df['buurt'].unique():
     if not buurt:
         continue
     buurt = buurt.replace('(', '\(')
-    if sum(old_buurten['oude_naam'].str.contains(buurt)):
-        code = old_buurten[old_buurten['oude_naam'].str.contains(buurt)]['code']
-        print(code.values[0])
-        indexes = df['buurt']== buurt
+    if sum(wijken['Wijknaam'].str.contains(buurt)):
+        code = wijken[wijken['Wijknaam'].str.contains(buurt)]['Wijkcode']
+        lat = wijken[wijken['Wijknaam'].str.contains(buurt)]['LAT']
+        lng = wijken[wijken['Wijknaam'].str.contains(buurt)]['LNG']
+        indexes = df['buurt'] == buurt
         df.loc[indexes, 'code'] = code.values[0]
+        df.loc[indexes, 'LAT'] = lat.values[0]
+        df.loc[indexes, 'LNG'] = lng.values[0]
 print(df)
-df.to_csv('../data/buurten_incidents.csv', index=False)
+df.to_csv('../data/wijken_incidents.csv', index=False)
 #
 # print(f"{i} out of {len(incident_buurt)}")
 exit(0)
