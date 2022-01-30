@@ -2,7 +2,6 @@
 import pandas as pd
 import csv
 from configparser import ConfigParser
-from classes.Locations.LocationsHelper import LocationsHelper
 from classes.RouteFinder.HereMaps.HereMapsEmergencyRouteFinder import HereMapsEmergencyRouteFinder
 from time import sleep
 from util.DistanceCalculator import calculateDistanceFromCoordinates
