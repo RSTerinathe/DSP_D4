@@ -5,5 +5,5 @@ class IncidentSimulator():
         self.__seed = seed
 
     def getIncidents(self):
-        incidents = pd.read_csv('./data/simulated_incidents.csv')
+        incidents = pd.read_csv('./data/simulated_incidents2.csv')
         return incidents
