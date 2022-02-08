@@ -1,0 +1,297 @@
+,index,Latitude,Longitude,Parking Space,Placed fire trucks,Minute range,Part of day
+0,0,52.3637,4.8822,Leidseplein,2,5,Morning
+1,1,52.3687,4.8772,Appeltjesmarkt,2,5,Morning
+2,0,52.3637,4.8822,Leidseplein,2,5,Afternoon
+3,1,52.3687,4.8772,Appeltjesmarkt,2,5,Afternoon
+4,0,52.3637,4.8822,Leidseplein,2,5,Evening
+5,1,52.3687,4.8772,Appeltjesmarkt,2,5,Evening
+6,0,52.3637,4.8822,Leidseplein,2,5,Night
+7,1,52.3687,4.8772,Appeltjesmarkt,2,5,Night
+8,0,52.3631,4.8808,Leidsebosje,3,2,Morning
+9,1,52.3637,4.8822,Leidseplein,3,2,Morning
+10,2,52.3612,4.908,Weesperplein,3,2,Morning
+11,0,52.3631,4.8808,Leidsebosje,3,2,Afternoon
+12,1,52.3637,4.8822,Leidseplein,3,2,Afternoon
+13,2,52.3612,4.908,Weesperplein,3,2,Afternoon
+14,0,52.3631,4.8808,Leidsebosje,3,2,Evening
+15,1,52.3637,4.8822,Leidseplein,3,2,Evening
+16,2,52.3612,4.908,Weesperplein,3,2,Evening
+17,0,52.3631,4.8808,Leidsebosje,3,2,Night
+18,1,52.3637,4.8822,Leidseplein,3,2,Night
+19,2,52.3612,4.908,Weesperplein,3,2,Night
+20,0,52.3631,4.8808,Leidsebosje,3,3,Morning
+21,1,52.3637,4.8822,Leidseplein,3,3,Morning
+22,2,52.3687,4.8772,Appeltjesmarkt,3,3,Morning
+23,0,52.3631,4.8808,Leidsebosje,3,3,Afternoon
+24,1,52.3637,4.8822,Leidseplein,3,3,Afternoon
+25,2,52.3687,4.8772,Appeltjesmarkt,3,3,Afternoon
+26,0,52.3631,4.8808,Leidsebosje,3,3,Evening
+27,1,52.3637,4.8822,Leidseplein,3,3,Evening
+28,2,52.3687,4.8772,Appeltjesmarkt,3,3,Evening
+29,0,52.3631,4.8808,Leidsebosje,3,3,Night
+30,1,52.3637,4.8822,Leidseplein,3,3,Night
+31,2,52.3687,4.8772,Appeltjesmarkt,3,3,Night
+32,0,52.3631,4.8808,Leidsebosje,3,4,Morning
+33,1,52.3637,4.8822,Leidseplein,3,4,Morning
+34,2,52.3687,4.8772,Appeltjesmarkt,3,4,Morning
+35,0,52.3631,4.8808,Leidsebosje,3,4,Afternoon
+36,1,52.3637,4.8822,Leidseplein,3,4,Afternoon
+37,2,52.3687,4.8772,Appeltjesmarkt,3,4,Afternoon
+38,0,52.3631,4.8808,Leidsebosje,3,4,Evening
+39,1,52.3637,4.8822,Leidseplein,3,4,Evening
+40,2,52.3687,4.8772,Appeltjesmarkt,3,4,Evening
+41,0,52.3631,4.8808,Leidsebosje,3,4,Night
+42,1,52.3637,4.8822,Leidseplein,3,4,Night
+43,2,52.3687,4.8772,Appeltjesmarkt,3,4,Night
+44,0,52.3637,4.8822,Leidseplein,3,5,Morning
+45,1,52.3687,4.8772,Appeltjesmarkt,3,5,Morning
+46,2,52.3631,4.8808,Leidsebosje,3,5,Morning
+47,0,52.3637,4.8822,Leidseplein,3,5,Afternoon
+48,1,52.3687,4.8772,Appeltjesmarkt,3,5,Afternoon
+49,2,52.3631,4.8808,Leidsebosje,3,5,Afternoon
+50,0,52.3637,4.8822,Leidseplein,3,5,Evening
+51,1,52.3687,4.8772,Appeltjesmarkt,3,5,Evening
+52,2,52.3631,4.8808,Leidsebosje,3,5,Evening
+53,0,52.3637,4.8822,Leidseplein,3,5,Night
+54,1,52.3687,4.8772,Appeltjesmarkt,3,5,Night
+55,2,52.3631,4.8808,Leidsebosje,3,5,Night
+56,0,52.3631,4.8808,Leidsebosje,4,2,Morning
+57,1,52.3637,4.8822,Leidseplein,4,2,Morning
+58,2,52.3612,4.908,Weesperplein,4,2,Morning
+59,3,52.3687,4.8772,Appeltjesmarkt,4,2,Morning
+60,0,52.3631,4.8808,Leidsebosje,4,2,Afternoon
+61,1,52.3637,4.8822,Leidseplein,4,2,Afternoon
+62,2,52.3612,4.908,Weesperplein,4,2,Afternoon
+63,3,52.3687,4.8772,Appeltjesmarkt,4,2,Afternoon
+64,0,52.3631,4.8808,Leidsebosje,4,2,Evening
+65,1,52.3637,4.8822,Leidseplein,4,2,Evening
+66,2,52.3612,4.908,Weesperplein,4,2,Evening
+67,3,52.3687,4.8772,Appeltjesmarkt,4,2,Evening
+68,0,52.3631,4.8808,Leidsebosje,4,2,Night
+69,1,52.3637,4.8822,Leidseplein,4,2,Night
+70,2,52.3612,4.908,Weesperplein,4,2,Night
+71,3,52.3687,4.8772,Appeltjesmarkt,4,2,Night
+72,0,52.3631,4.8808,Leidsebosje,4,3,Morning
+73,1,52.3637,4.8822,Leidseplein,4,3,Morning
+74,2,52.3687,4.8772,Appeltjesmarkt,4,3,Morning
+75,3,52.3628595,4.8833056,Max Euweplein,4,3,Morning
+76,0,52.3631,4.8808,Leidsebosje,4,3,Afternoon
+77,1,52.3637,4.8822,Leidseplein,4,3,Afternoon
+78,2,52.3687,4.8772,Appeltjesmarkt,4,3,Afternoon
+79,3,52.3628595,4.8833056,Max Euweplein,4,3,Afternoon
+80,0,52.3631,4.8808,Leidsebosje,4,3,Evening
+81,1,52.3637,4.8822,Leidseplein,4,3,Evening
+82,2,52.3687,4.8772,Appeltjesmarkt,4,3,Evening
+83,3,52.3628595,4.8833056,Max Euweplein,4,3,Evening
+84,0,52.3631,4.8808,Leidsebosje,4,3,Night
+85,1,52.3637,4.8822,Leidseplein,4,3,Night
+86,2,52.3687,4.8772,Appeltjesmarkt,4,3,Night
+87,3,52.3628595,4.8833056,Max Euweplein,4,3,Night
+88,0,52.3631,4.8808,Leidsebosje,4,4,Morning
+89,1,52.3637,4.8822,Leidseplein,4,4,Morning
+90,2,52.3687,4.8772,Appeltjesmarkt,4,4,Morning
+91,3,52.3713,4.87531,Groenmarkt,4,4,Morning
+92,0,52.3631,4.8808,Leidsebosje,4,4,Afternoon
+93,1,52.3637,4.8822,Leidseplein,4,4,Afternoon
+94,2,52.3687,4.8772,Appeltjesmarkt,4,4,Afternoon
+95,3,52.3713,4.87531,Groenmarkt,4,4,Afternoon
+96,0,52.3631,4.8808,Leidsebosje,4,4,Evening
+97,1,52.3637,4.8822,Leidseplein,4,4,Evening
+98,2,52.3687,4.8772,Appeltjesmarkt,4,4,Evening
+99,3,52.3713,4.87531,Groenmarkt,4,4,Evening
+100,0,52.3631,4.8808,Leidsebosje,4,4,Night
+101,1,52.3637,4.8822,Leidseplein,4,4,Night
+102,2,52.3687,4.8772,Appeltjesmarkt,4,4,Night
+103,3,52.3713,4.87531,Groenmarkt,4,4,Night
+104,0,52.3637,4.8822,Leidseplein,4,5,Morning
+105,1,52.3687,4.8772,Appeltjesmarkt,4,5,Morning
+106,2,52.3631,4.8808,Leidsebosje,4,5,Morning
+107,3,52.3628595,4.8833056,Max Euweplein,4,5,Morning
+108,0,52.3637,4.8822,Leidseplein,4,5,Afternoon
+109,1,52.3687,4.8772,Appeltjesmarkt,4,5,Afternoon
+110,2,52.3631,4.8808,Leidsebosje,4,5,Afternoon
+111,3,52.3628595,4.8833056,Max Euweplein,4,5,Afternoon
+112,0,52.3637,4.8822,Leidseplein,4,5,Evening
+113,1,52.3687,4.8772,Appeltjesmarkt,4,5,Evening
+114,2,52.3631,4.8808,Leidsebosje,4,5,Evening
+115,3,52.3628595,4.8833056,Max Euweplein,4,5,Evening
+116,0,52.3637,4.8822,Leidseplein,4,5,Night
+117,1,52.3687,4.8772,Appeltjesmarkt,4,5,Night
+118,2,52.3631,4.8808,Leidsebosje,4,5,Night
+119,3,52.3628595,4.8833056,Max Euweplein,4,5,Night
+120,0,52.3631,4.8808,Leidsebosje,5,2,Morning
+121,1,52.3637,4.8822,Leidseplein,5,2,Morning
+122,2,52.3612,4.908,Weesperplein,5,2,Morning
+123,3,52.3687,4.8772,Appeltjesmarkt,5,2,Morning
+124,4,52.3713,4.87531,Groenmarkt,5,2,Morning
+125,0,52.3631,4.8808,Leidsebosje,5,2,Afternoon
+126,1,52.3637,4.8822,Leidseplein,5,2,Afternoon
+127,2,52.3612,4.908,Weesperplein,5,2,Afternoon
+128,3,52.3687,4.8772,Appeltjesmarkt,5,2,Afternoon
+129,4,52.3713,4.87531,Groenmarkt,5,2,Afternoon
+130,0,52.3631,4.8808,Leidsebosje,5,2,Evening
+131,1,52.3637,4.8822,Leidseplein,5,2,Evening
+132,2,52.3612,4.908,Weesperplein,5,2,Evening
+133,3,52.3687,4.8772,Appeltjesmarkt,5,2,Evening
+134,4,52.3713,4.87531,Groenmarkt,5,2,Evening
+135,0,52.3631,4.8808,Leidsebosje,5,2,Night
+136,1,52.3637,4.8822,Leidseplein,5,2,Night
+137,2,52.3612,4.908,Weesperplein,5,2,Night
+138,3,52.3687,4.8772,Appeltjesmarkt,5,2,Night
+139,4,52.3713,4.87531,Groenmarkt,5,2,Night
+140,0,52.3631,4.8808,Leidsebosje,5,3,Morning
+141,1,52.3637,4.8822,Leidseplein,5,3,Morning
+142,2,52.3687,4.8772,Appeltjesmarkt,5,3,Morning
+143,3,52.3628595,4.8833056,Max Euweplein,5,3,Morning
+144,4,52.3713,4.87531,Groenmarkt,5,3,Morning
+145,0,52.3631,4.8808,Leidsebosje,5,3,Afternoon
+146,1,52.3637,4.8822,Leidseplein,5,3,Afternoon
+147,2,52.3687,4.8772,Appeltjesmarkt,5,3,Afternoon
+148,3,52.3628595,4.8833056,Max Euweplein,5,3,Afternoon
+149,4,52.3713,4.87531,Groenmarkt,5,3,Afternoon
+150,0,52.3631,4.8808,Leidsebosje,5,3,Evening
+151,1,52.3637,4.8822,Leidseplein,5,3,Evening
+152,2,52.3687,4.8772,Appeltjesmarkt,5,3,Evening
+153,3,52.3628595,4.8833056,Max Euweplein,5,3,Evening
+154,4,52.3713,4.87531,Groenmarkt,5,3,Evening
+155,0,52.3631,4.8808,Leidsebosje,5,3,Night
+156,1,52.3637,4.8822,Leidseplein,5,3,Night
+157,2,52.3687,4.8772,Appeltjesmarkt,5,3,Night
+158,3,52.3628595,4.8833056,Max Euweplein,5,3,Night
+159,4,52.3713,4.87531,Groenmarkt,5,3,Night
+160,0,52.3631,4.8808,Leidsebosje,5,4,Morning
+161,1,52.3637,4.8822,Leidseplein,5,4,Morning
+162,2,52.3687,4.8772,Appeltjesmarkt,5,4,Morning
+163,3,52.3713,4.87531,Groenmarkt,5,4,Morning
+164,4,52.3628595,4.8833056,Max Euweplein,5,4,Morning
+165,0,52.3631,4.8808,Leidsebosje,5,4,Afternoon
+166,1,52.3637,4.8822,Leidseplein,5,4,Afternoon
+167,2,52.3687,4.8772,Appeltjesmarkt,5,4,Afternoon
+168,3,52.3713,4.87531,Groenmarkt,5,4,Afternoon
+169,4,52.3628595,4.8833056,Max Euweplein,5,4,Afternoon
+170,0,52.3631,4.8808,Leidsebosje,5,4,Evening
+171,1,52.3637,4.8822,Leidseplein,5,4,Evening
+172,2,52.3687,4.8772,Appeltjesmarkt,5,4,Evening
+173,3,52.3713,4.87531,Groenmarkt,5,4,Evening
+174,4,52.3628595,4.8833056,Max Euweplein,5,4,Evening
+175,0,52.3631,4.8808,Leidsebosje,5,4,Night
+176,1,52.3637,4.8822,Leidseplein,5,4,Night
+177,2,52.3687,4.8772,Appeltjesmarkt,5,4,Night
+178,3,52.3713,4.87531,Groenmarkt,5,4,Night
+179,4,52.3628595,4.8833056,Max Euweplein,5,4,Night
+180,0,52.3637,4.8822,Leidseplein,5,5,Morning
+181,1,52.3687,4.8772,Appeltjesmarkt,5,5,Morning
+182,2,52.3631,4.8808,Leidsebosje,5,5,Morning
+183,3,52.3628595,4.8833056,Max Euweplein,5,5,Morning
+184,4,52.366338,4.88034,Raamplein,5,5,Morning
+185,0,52.3637,4.8822,Leidseplein,5,5,Afternoon
+186,1,52.3687,4.8772,Appeltjesmarkt,5,5,Afternoon
+187,2,52.3631,4.8808,Leidsebosje,5,5,Afternoon
+188,3,52.3628595,4.8833056,Max Euweplein,5,5,Afternoon
+189,4,52.366338,4.88034,Raamplein,5,5,Afternoon
+190,0,52.3637,4.8822,Leidseplein,5,5,Evening
+191,1,52.3687,4.8772,Appeltjesmarkt,5,5,Evening
+192,2,52.3631,4.8808,Leidsebosje,5,5,Evening
+193,3,52.3628595,4.8833056,Max Euweplein,5,5,Evening
+194,4,52.366338,4.88034,Raamplein,5,5,Evening
+195,0,52.3637,4.8822,Leidseplein,5,5,Night
+196,1,52.3687,4.8772,Appeltjesmarkt,5,5,Night
+197,2,52.3631,4.8808,Leidsebosje,5,5,Night
+198,3,52.3628595,4.8833056,Max Euweplein,5,5,Night
+199,4,52.366338,4.88034,Raamplein,5,5,Night
+200,0,52.3631,4.8808,Leidsebosje,6,2,Morning
+201,1,52.3637,4.8822,Leidseplein,6,2,Morning
+202,2,52.3612,4.908,Weesperplein,6,2,Morning
+203,3,52.3687,4.8772,Appeltjesmarkt,6,2,Morning
+204,4,52.3713,4.87531,Groenmarkt,6,2,Morning
+205,5,52.354702,4.85755,Vondelpark,6,2,Morning
+206,0,52.3631,4.8808,Leidsebosje,6,2,Afternoon
+207,1,52.3637,4.8822,Leidseplein,6,2,Afternoon
+208,2,52.3612,4.908,Weesperplein,6,2,Afternoon
+209,3,52.3687,4.8772,Appeltjesmarkt,6,2,Afternoon
+210,4,52.3713,4.87531,Groenmarkt,6,2,Afternoon
+211,5,52.354702,4.85755,Vondelpark,6,2,Afternoon
+212,0,52.3631,4.8808,Leidsebosje,6,2,Evening
+213,1,52.3637,4.8822,Leidseplein,6,2,Evening
+214,2,52.3612,4.908,Weesperplein,6,2,Evening
+215,3,52.3687,4.8772,Appeltjesmarkt,6,2,Evening
+216,4,52.3713,4.87531,Groenmarkt,6,2,Evening
+217,5,52.354702,4.85755,Vondelpark,6,2,Evening
+218,0,52.3631,4.8808,Leidsebosje,6,2,Night
+219,1,52.3637,4.8822,Leidseplein,6,2,Night
+220,2,52.3612,4.908,Weesperplein,6,2,Night
+221,3,52.3687,4.8772,Appeltjesmarkt,6,2,Night
+222,4,52.3713,4.87531,Groenmarkt,6,2,Night
+223,5,52.354702,4.85755,Vondelpark,6,2,Night
+224,0,52.3631,4.8808,Leidsebosje,6,3,Morning
+225,1,52.3637,4.8822,Leidseplein,6,3,Morning
+226,2,52.3687,4.8772,Appeltjesmarkt,6,3,Morning
+227,3,52.3628595,4.8833056,Max Euweplein,6,3,Morning
+228,4,52.3713,4.87531,Groenmarkt,6,3,Morning
+229,5,52.3612,4.908,Weesperplein,6,3,Morning
+230,0,52.3631,4.8808,Leidsebosje,6,3,Afternoon
+231,1,52.3637,4.8822,Leidseplein,6,3,Afternoon
+232,2,52.3687,4.8772,Appeltjesmarkt,6,3,Afternoon
+233,3,52.3628595,4.8833056,Max Euweplein,6,3,Afternoon
+234,4,52.3713,4.87531,Groenmarkt,6,3,Afternoon
+235,5,52.3612,4.908,Weesperplein,6,3,Afternoon
+236,0,52.3631,4.8808,Leidsebosje,6,3,Evening
+237,1,52.3637,4.8822,Leidseplein,6,3,Evening
+238,2,52.3687,4.8772,Appeltjesmarkt,6,3,Evening
+239,3,52.3628595,4.8833056,Max Euweplein,6,3,Evening
+240,4,52.3713,4.87531,Groenmarkt,6,3,Evening
+241,5,52.3612,4.908,Weesperplein,6,3,Evening
+242,0,52.3631,4.8808,Leidsebosje,6,3,Night
+243,1,52.3637,4.8822,Leidseplein,6,3,Night
+244,2,52.3687,4.8772,Appeltjesmarkt,6,3,Night
+245,3,52.3628595,4.8833056,Max Euweplein,6,3,Night
+246,4,52.3713,4.87531,Groenmarkt,6,3,Night
+247,5,52.3612,4.908,Weesperplein,6,3,Night
+248,0,52.3631,4.8808,Leidsebosje,6,4,Morning
+249,1,52.3637,4.8822,Leidseplein,6,4,Morning
+250,2,52.3687,4.8772,Appeltjesmarkt,6,4,Morning
+251,3,52.3713,4.87531,Groenmarkt,6,4,Morning
+252,4,52.3628595,4.8833056,Max Euweplein,6,4,Morning
+253,5,52.3612,4.908,Weesperplein,6,4,Morning
+254,0,52.3631,4.8808,Leidsebosje,6,4,Afternoon
+255,1,52.3637,4.8822,Leidseplein,6,4,Afternoon
+256,2,52.3687,4.8772,Appeltjesmarkt,6,4,Afternoon
+257,3,52.3713,4.87531,Groenmarkt,6,4,Afternoon
+258,4,52.3628595,4.8833056,Max Euweplein,6,4,Afternoon
+259,5,52.3612,4.908,Weesperplein,6,4,Afternoon
+260,0,52.3631,4.8808,Leidsebosje,6,4,Evening
+261,1,52.3637,4.8822,Leidseplein,6,4,Evening
+262,2,52.3687,4.8772,Appeltjesmarkt,6,4,Evening
+263,3,52.3713,4.87531,Groenmarkt,6,4,Evening
+264,4,52.3628595,4.8833056,Max Euweplein,6,4,Evening
+265,5,52.3612,4.908,Weesperplein,6,4,Evening
+266,0,52.3631,4.8808,Leidsebosje,6,4,Night
+267,1,52.3637,4.8822,Leidseplein,6,4,Night
+268,2,52.3687,4.8772,Appeltjesmarkt,6,4,Night
+269,3,52.3713,4.87531,Groenmarkt,6,4,Night
+270,4,52.3628595,4.8833056,Max Euweplein,6,4,Night
+271,5,52.3612,4.908,Weesperplein,6,4,Night
+272,0,52.3637,4.8822,Leidseplein,6,5,Morning
+273,1,52.3687,4.8772,Appeltjesmarkt,6,5,Morning
+274,2,52.3631,4.8808,Leidsebosje,6,5,Morning
+275,3,52.3628595,4.8833056,Max Euweplein,6,5,Morning
+276,4,52.366338,4.88034,Raamplein,6,5,Morning
+277,5,52.366831866,4.886996452,Koningsplein,6,5,Morning
+278,0,52.3637,4.8822,Leidseplein,6,5,Afternoon
+279,1,52.3687,4.8772,Appeltjesmarkt,6,5,Afternoon
+280,2,52.3631,4.8808,Leidsebosje,6,5,Afternoon
+281,3,52.3628595,4.8833056,Max Euweplein,6,5,Afternoon
+282,4,52.366338,4.88034,Raamplein,6,5,Afternoon
+283,5,52.366831866,4.886996452,Koningsplein,6,5,Afternoon
+284,0,52.3637,4.8822,Leidseplein,6,5,Evening
+285,1,52.3687,4.8772,Appeltjesmarkt,6,5,Evening
+286,2,52.3631,4.8808,Leidsebosje,6,5,Evening
+287,3,52.3628595,4.8833056,Max Euweplein,6,5,Evening
+288,4,52.366338,4.88034,Raamplein,6,5,Evening
+289,5,52.366831866,4.886996452,Koningsplein,6,5,Evening
+290,0,52.3637,4.8822,Leidseplein,6,5,Night
+291,1,52.3687,4.8772,Appeltjesmarkt,6,5,Night
+292,2,52.3631,4.8808,Leidsebosje,6,5,Night
+293,3,52.3628595,4.8833056,Max Euweplein,6,5,Night
+294,4,52.366338,4.88034,Raamplein,6,5,Night
+295,5,52.366831866,4.886996452,Koningsplein,6,5,Night
